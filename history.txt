@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  firefox &
+    4  uname -r
+    5  firefox &
+    6  lsb_release
+    7  cat /etc/* -release
+    8  cat /etc/*-release
+    9  echo $0
+   10  man echo
+   11  pwd
+   12  whoami
+   13  who
+   14  ls
+   15  ls -l
+   16  ls -a
+   17  ls -la
+   18  cd
+   19  pwd
+   20  d
+   21  cd ~
+   22  pwd
+   23  cd home
+   24  pwd
+   25  cd
+   26  pwd
+   27  cd /home
+   28  pwd
+   29  cd ~
+   30  pwd
+   31  cd .
+   32  pwd
+   33  cd /user
+   34  pw
+   35  cd /home
+   36  pwd
+   37  cd /home
+   38  pwd
+   39  cd .
+   40  cd ..
+   41  pwd
+   42  cd home
+   43  pwd
+   44  cd user
+   45  pwd
+   46  cd documents
+   47  ls
+   48  cd Documents
+   49  pwd
+   50  cd ~
+   51  pwd
+   52  history
+   53  man
+   54  man home
+   55  pwd
+   56  hardware
+   57  software
+   58  firefox &
+   59  cat /etc/*-release
+   60  pwd
+   61  mkdir darbi
+   62  ls -l
+   63  cd darbi/
+   64  history 
+   65  history > history.txt
