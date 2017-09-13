@@ -63,3 +63,107 @@
    63  cd darbi/
    64  history 
    65  history > history.txt
+   66  ls -la
+   67  cat history
+   68  cat history.txt
+   69  pwd
+   70  ls -la
+   71  git init
+   72  git add .
+   73  git config --global user.name kazah.flame@gmail.com
+   74  ls -la
+   75  git commit -n "20170913_14_00"
+   76  git commit -m "20170913_14_00"
+   77  git config --global user.email kazah.flame@gmail.com
+   78  git remote add origin https://github.com/keonweak1488/DMI.git
+   79  git push origin master
+   80  history
+   81  mkdir apakshdarbi
+   82  ls -l
+   83  cd apakshdarbi/
+   84  ls -la
+   85  history > vesture.txt
+   86  ls -la
+   87  cd ..
+   88  pwd
+   89  ls -l
+   90  rdmir apakshdarbi/
+   91  rmdir apakshdarbi/
+   92  rm apakshdarbi/
+   93  man rm
+   94  rm -rf apakshdarbi/
+   95  ls -la
+   96  cd /
+   97  ls
+   98  mkdir apakshdarbi
+   99  rm dev
+  100  rm -rf dev
+  101  rm dev1
+  102  cd 
+  103  pwd
+  104  ls -l
+  105  cd darbi
+  106  echo Tecmint is a community of Linux Nerds
+  107  x=10
+  108  echo The value of variable x = $x
+  109  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+  110  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+  111  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+  112  echo -e "\n\tTecmint \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds
+  113  echo -e "\n\tTecmint \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+  114  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+  115  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+  116  pwd
+  117  firefox &
+  118  cd darbi/
+  119  echo Tecmint is a community of Linux Nerds
+  120  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+  121  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+  122  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds
+  123  echo Tecmint is a community of Linux Nerds
+  124  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+  125  cd darbi\
+  126  cd darbi/
+  127  firefox &
+  128  echo Tecmint is a community of Linux Nerds
+  129  echo -e "Tecmint \ris a community of Linux Nerds"
+  130  echo -e "Tecmint is a community \cof Linux Nerds"
+  131  echo -n "Tecmint is a community of Lint is a community of Linux Nerds"
+  132  echo -e "Tecmint is a community of \aLinux Nerds"
+  133  echo *
+  134  pwd
+  135  echo *.jpeg
+  136  echo *.txt
+  137  echo "Teksts" > a.txt
+  138  ls -la
+  139  ls -l
+  140  cat a.txt
+  141  echo "TekstsTeksts" > b.txt
+  142  ls -l
+  143  man ls
+  144  man ls > ls_komandas_apraksts
+  145  ls -l
+  146  cat ls_komandas_apraksts 
+  147  cat a.txt > d.txt
+  148  ls -l
+  149  cat b.txt > d.txt
+  150  ls -l
+  151  cat d.txt
+  152  cp d.txt dd.txt
+  153  ls -l
+  154  cp d.txt ddd.txt > interese.txt
+  155  ls -l
+  156  cp c.txt ../cl.txt
+  157  cd ..
+  158  ls -l
+  159  cd /
+  160  pwd
+  161  mv ~/darbi/ls_komandas_apraksts ~/
+  162  cd
+  163  ls -l
+  164  cd darbi/
+  165  ls -l
+  166  pwd
+  167  ls -la
+  168  git add .
+  169  history > history.txt
